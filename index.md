@@ -21,7 +21,8 @@ Please contact <a href="miguelguerreironuno@gmail.com">Nuno Miguel Guerreiro</a>
 
 ## Seminars in 2021/2022<br />
 
-<html>
+### Upcoming Seminars
+
 <head>
 <style>
 table {
@@ -44,10 +45,29 @@ table, tr, td {
     border: none;
 }
 
+tbody tr.active-row {
+    font-weight: bold;
+    font-size: 0.9em;
+    color: #009879;
+    border-spacing:5em;
+}
+
+tbody tr.past-row {
+    font-size: 0.85em;
+    background-color: #f3f3f3;
+}
+
+
+
+
+th, td {
+    padding: 10px 10px;
+}
+
+
 }
 </style>
 </head>
-<body>
 
 <table>
     <thead>
@@ -60,53 +80,19 @@ table, tr, td {
     </thead>
     <tbody>
         <tr>
+            <td><strong>Laurent Besacier</strong></td>
+            <td>Naver Labs Europe</td>
+            <td>TBD</td>
+            <td>13 Dec</td>
+        </tr>
+        <tr>
             <td><strong>Wilker Aziz</strong></td>
             <td>University of Amsterdam</td>
             <td>TBD</td>
             <td>22 Nov</td>
         </tr>
-        <tr class="active-row">
-            <td><strong>Junxian He</strong> & <strong>Chunting Zhou</strong></td>
-            <td>Carnegie Mellon University</td>
-            <td>Towards a Unified View of Parameter-Efficient Transfer Learning</td>
-            <td>25 Oct</td>
-        </tr>
-        <tr class="active-row">
-            <td><strong>Rico Sennrich</strong></td>
-            <td>University of Zurich</td>
-            <td>Hallucinations and Minimum Bayes Risk Decoding in Neural Machine Translation</td>
-            <td>18 Oct</td>
-        </tr>
-        <tr class="active-row">
-            <td><strong>Masha Itkina</strong></td>
-            <td>Stanford University</td>
-            <td>Evidential Sparsification of Multimodal Latent Spaces in Conditional Variational Autoencoders</td>
-            <td>11 Oct</td>
-        </tr>
-        <tr class="active-row">
-            <td><strong>Sabrina Mielke</strong></td>
-            <td>John Hopkins University</td>
-            <td>Fair Comparisons and Fundamental Ideas for Open-Vocabulary Generative Language and Translation Models</td>
-            <td>27 Sep</td>
-        </tr>
-        <tr class="active-row">
-            <td><strong>Clara Meister</strong></td>
-            <td>ETH Zurich</td>
-            <td>Language Model Evaluation Beyond Perplexity</td>
-            <td>20 Sep</td>
-        </tr>
-        <tr class="active-row">
-            <td><strong>Samuel Kiegeland</strong></td>
-            <td>Heidelberg University</td>
-            <td>Revisiting the Weaknesses of Reinforcement Learning for Neural Machine Translation</td>
-            <td>13 Sep</td>
-        </tr>
-        <tr class="active-row">
-            <td><strong>Danish Pruthi</strong></td>
-            <td>Carnegie Mellon University</td>
-            <td>Topics on Explainability and Evaluation of Explanations</td>
-            <td>06 Sep</td>
-        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
+
+Check our previous speakers [here]({{ site.baseurl }}{% link ./past_seminars.md %})!
