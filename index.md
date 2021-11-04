@@ -10,7 +10,7 @@ layout: home
   
   <strong>The seminars are open to the public.</strong><br />
 
-  <strong>Date/Time:</strong> 6pm Lisbon Time on Mondays. The link to the seminar is <a href="https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview"><strong> HERE</strong></a>.
+  <strong>Date/Time:</strong> 6pm Lisbon Time on Mondays. The link to the seminar is <a href="..."><strong> HERE</strong></a>.
 
 </p>
 
