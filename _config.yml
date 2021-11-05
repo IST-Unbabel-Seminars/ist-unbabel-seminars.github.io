@@ -3,13 +3,13 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+permalink:        /:title
 
 # Setup
-title:            IST & Unbabel Seminars
+title:            IST & Unbabel Seminars 1
 tagline:          'A Jekyll theme'
 description:      ''
-url:              https://ist-unbabel-seminars.github.io
-baseurl:          "./"
+url:              "ist-unbabel-seminars.github.io"
+baseurl:          ""
 
 paginate:         5
