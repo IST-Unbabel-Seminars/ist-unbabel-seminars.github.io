@@ -8,7 +8,7 @@ layout: home
 <p class="message">
   The IST & Unbabel Seminars aim to provide, on a weekly basis, an outlet for discussion of research on Machine Learning and Natural Language Processing by researchers and students all over the world.<br /><br />
 
-  These seminars are organized by people at Instituto Superior Técnico (IST) and <a href="https://unbabel.com/">Unbabel</a>, and are also an iniciative from <a href="https://lumlis.tecnico.ulisboa.pt/">LUMLIS</a> (Lisbon Unit for Learning and Intelligent Systems) a unit of the  European Laboratory for Learning and Intelligent Systems (<a href="https://ellis.eu/">ELLIS</a>).<br /><br />   
+  These seminars are organized by people at Instituto Superior Técnico (IST) and <a href="https://unbabel.com/">Unbabel</a>, and are also an initiative from <a href="https://lumlis.tecnico.ulisboa.pt/">LUMLIS</a> (Lisbon Unit for Learning and Intelligent Systems) a unit of the  European Laboratory for Learning and Intelligent Systems (<a href="https://ellis.eu/">ELLIS</a>).<br /><br />   
   
   <strong>The seminars are open to the public.</strong><br />
 
@@ -102,15 +102,14 @@ th, td {
 
 
 <style>
-	
 	.column {
 	  float: left;
 	  padding: 20px;
 	}
 	
 </style>
-<div style="position: relative; width: 600px; height: 100px;">    
-    <div style="position: absolute; bottom: 0px; position: fixed;">
+<div style="position: relative; width: 700px; height: 100px; min-height: 200px">    
+    <div style="position: relative; bottom: 0px;">
 	   <div class="column">
 	     <img src="/public/css/tecnico.png" height=70px width=auto>
 	   </div>
