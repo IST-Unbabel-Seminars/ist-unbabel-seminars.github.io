@@ -15,7 +15,7 @@ table {
 }
 
 thead tr {
-    background-color: #344a53;
+    background-color:#4c737e;
     color: #ffffff;
     text-align: left;
     border: none;
