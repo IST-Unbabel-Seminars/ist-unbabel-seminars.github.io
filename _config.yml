@@ -6,10 +6,10 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            IST & Unbabel Seminars 1
+title:            IST & Unbabel Seminars
 tagline:          'A Jekyll theme'
 description:      ''
-url:              'https://ist-unbabel-seminars.github.io'
-baseurl:          ''
+url:              https://ist-unbabel-seminars.github.io
+baseurl:          "./"
 
 paginate:         5
