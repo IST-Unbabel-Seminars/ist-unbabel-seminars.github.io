@@ -9,7 +9,7 @@ permalink:        pretty
 title:            IST & Unbabel Seminars 1
 tagline:          'A Jekyll theme'
 description:      ''
-url:              'https://ist-unbabel-seminars.github.io/'
-baseurl:          ''
+url:              'https://ist-unbabel-seminars.github.io'
+baseurl:          '/'
 
 paginate:         5
