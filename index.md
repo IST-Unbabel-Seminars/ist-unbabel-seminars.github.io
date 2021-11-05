@@ -37,7 +37,7 @@ table {
 }
 
 thead tr {
-    background-color: #4c737e;
+    background-color: #57a0d3;
     color: #ffffff;
     text-align: left;
     border: none;
@@ -97,4 +97,27 @@ th, td {
     </tbody>
 </table>
 
-Check our previous speakers in the <a href="./past_seminars">Past Seminars</a> section!
+<p>Check our previous speakers in the <a href="./past_seminars">Past Seminars</a> section!<br><br></p>
+
+
+
+<style>
+	
+	.column {
+	  float: left;
+	  padding: 20px;
+	}
+	
+</style>
+<div style="position: relative; width: 600px; height: 100px;">    
+    <div style="position: absolute; bottom: 0px; position: fixed;">
+	   <div class="column">
+	     <img src="/public/css/tecnico.png" height=70px width=auto>
+	   </div>
+	   <div class="column">
+	     <img src="/public/css/unbabel.png" height=70px width=auto>
+	   </div>
+	   <div class="column">
+	     <img src="/public/css/ellis.png" height=70px width=auto>
+	   </div>
+	</div>

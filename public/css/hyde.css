@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: #57a0d3;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -186,6 +186,7 @@ a.sidebar-nav-item:focus {
   color: #ac4142;
 }
 
+
 /* Orange */
 .theme-base-09 .sidebar {
   background-color: #d28445;
@@ -197,7 +198,7 @@ a.sidebar-nav-item:focus {
 
 /* Yellow */
 .theme-base-0a .sidebar {
-  background-color: #f4bf75;
+  background-color: #f4f4f4;
 }
 .theme-base-0a .content a,
 .theme-base-0a .related-posts li a:hover {
