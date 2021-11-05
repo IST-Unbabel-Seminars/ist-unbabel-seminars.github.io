@@ -54,7 +54,7 @@ th, td {
             <th>Guest Speaker</th>
             <th>Affiliation</th>
             <th>Talk Title</th>
-            <th style="width:  8.33%">Date</th>
+            <th style="width:  10.33%">Date</th>
         </tr>
     </thead>
     <tbody>
