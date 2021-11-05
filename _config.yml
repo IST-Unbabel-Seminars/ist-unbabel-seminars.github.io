@@ -10,6 +10,6 @@ title:            IST & Unbabel Seminars
 tagline:          'A Jekyll theme'
 description:      ''
 url:              https://ist-unbabel-seminars.github.io/
-baseurl:          '/'
+baseurl:          ''
 
 paginate:         5
