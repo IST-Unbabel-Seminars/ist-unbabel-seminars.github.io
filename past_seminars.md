@@ -11,7 +11,8 @@ table {
     font-size: 0.9em;
     border-radius: 12px;
     border: none;
-    min-width: 400px;
+    min-width: 800px;
+    width: 800px;
 }
 
 thead tr {
@@ -38,8 +39,6 @@ tbody tr.past-row {
 }
 
 
-
-
 th, td {
     padding: 10px 10px;
 }
@@ -53,9 +52,9 @@ th, td {
     <thead>
         <tr>
             <th>Guest Speaker</th>
-            <th>Guest Speaker Affiliation</th>
+            <th>Affiliation</th>
             <th>Talk Title</th>
-            <th>Date/Time</th>
+            <th style="width:  8.33%">Date</th>
         </tr>
     </thead>
     <tbody>
@@ -63,7 +62,7 @@ th, td {
             <td><strong>Junxian He</strong> & <strong>Chunting Zhou</strong></td>
             <td>Carnegie Mellon University</td>
             <td>Towards a Unified View of Parameter-Efficient Transfer Learning</td>
-            <td>25 Oct</td>
+            <td class="date">25 Oct</td>
         </tr>
         <tr class="past-row">
             <td><strong>Rico Sennrich</strong></td>
