@@ -88,6 +88,12 @@ th, td {
             <td>22 Nov</td>
         </tr>
         <tr>
+            <td><strong>Edoardo Ponti</strong></td>
+            <td>Mila - Quebec</td>
+            <td>TBD</td>
+            <td>6 Dec</td>
+        </tr>
+        <tr>
             <td><strong>Laurent Besacier</strong></td>
             <td>Naver Labs Europe</td>
             <td>TBD</td>
