@@ -81,6 +81,12 @@ th, td {
         </tr>
     </thead>
     <tbody>
+         <tr>
+            <td><strong>Wilker Aziz</strong></td>
+            <td>University of Amsterdam</td>
+            <td>TBD</td>
+            <td>22 Nov</td>
+        </tr>
         <tr>
             <td><strong>Laurent Besacier</strong></td>
             <td>Naver Labs Europe</td>
@@ -88,10 +94,10 @@ th, td {
             <td>13 Dec</td>
         </tr>
         <tr>
-            <td><strong>Wilker Aziz</strong></td>
-            <td>University of Amsterdam</td>
+            <td><strong>Victor Veitch</strong></td>
+            <td>University of Chicago and Google Research</td>
             <td>TBD</td>
-            <td>22 Nov</td>
+            <td>17 Jan</td>
         </tr>
         <!-- and so on... -->
     </tbody>
