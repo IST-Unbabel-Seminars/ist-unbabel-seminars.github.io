@@ -12,7 +12,7 @@ layout: home
   
   <strong>The seminars are open to the public.</strong><br />
 
-  <strong>Date/Time:</strong> 6pm Lisbon Time on Mondays. The link to the seminar is <a href="..."><strong> HERE</strong></a>.
+  <strong>Date/Time:</strong> 6pm Lisbon Time on Mondays. Subscribe the Seminar's calendar <a href="https://calendar.google.com/calendar/u/0?cid=dDQ3NDl0cnVubzRhaHVlczR0OW9vYm1ncTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"><strong> HERE</strong></a>.
 
 </p>
 
