@@ -84,7 +84,7 @@ th, td {
          <tr>
             <td><strong>Wilker Aziz</strong></td>
             <td>University of Amsterdam</td>
-            <td>TBD</td>
+            <td>Sampling-based minimum Bayes risk decoding for NMT</td>
             <td>22 Nov</td>
         </tr>
         <tr>
