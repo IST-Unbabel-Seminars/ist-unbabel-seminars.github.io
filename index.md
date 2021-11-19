@@ -100,10 +100,34 @@ th, td {
             <td>13 Dec</td>
         </tr>
         <tr>
+            <td><strong>Victor Sanh</strong></td>
+            <td>HuggingFace</td>
+            <td>TBD</td>
+            <td>20 Dec</td>
+        </tr>
+        <tr>
+            <td><strong>Leonardo Ribeiro</strong></td>
+            <td>TU Darmstadt</td>
+            <td>TBD</td>
+            <td>10 Jan</td>
+        </tr>
+        <tr>
             <td><strong>Victor Veitch</strong></td>
             <td>University of Chicago and Google Research</td>
             <td>TBD</td>
             <td>17 Jan</td>
+        </tr>
+         <tr>
+            <td><strong>Samuel Bowman</strong></td>
+            <td>New York University</td>
+            <td>TBD</td>
+            <td>24 Jan</td>
+        </tr>
+         <tr>
+            <td><strong>Elizabeth Salesky</strong></td>
+            <td>Johns Hopkins University</td>
+            <td>TBD</td>
+            <td>31 Jan</td>
         </tr>
         <!-- and so on... -->
     </tbody>
