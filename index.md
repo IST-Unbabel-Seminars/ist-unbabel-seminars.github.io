@@ -33,7 +33,7 @@ table {
     font-size: 0.9em;
     border-radius: 12px;
     border: none;
-    min-width: 400px;
+    min-width: 425px;
 }
 
 thead tr {
