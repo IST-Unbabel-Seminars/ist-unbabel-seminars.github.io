@@ -59,6 +59,12 @@ th, td {
     </thead>
     <tbody>
         <tr class="past-row">
+            <td><strong>Wilker Aziz</strong></td>
+            <td>University of Amsterdam</td>
+            <td>Sampling-based minimum Bayes risk decoding for NMT</td>
+            <td>22 Nov</td>
+        </tr>
+        <tr class="past-row">
             <td><strong>Junxian He</strong> & <strong>Chunting Zhou</strong></td>
             <td>Carnegie Mellon University</td>
             <td>Towards a Unified View of Parameter-Efficient Transfer Learning</td>

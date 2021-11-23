@@ -33,7 +33,7 @@ table {
     font-size: 0.9em;
     border-radius: 12px;
     border: none;
-    min-width: 425px;
+    min-width: 400px;
 }
 
 thead tr {
@@ -82,10 +82,10 @@ th, td {
     </thead>
     <tbody>
          <tr>
-            <td><strong>Wilker Aziz</strong></td>
-            <td>University of Amsterdam</td>
-            <td>Sampling-based minimum Bayes risk decoding for NMT</td>
-            <td>22 Nov</td>
+            <td><strong>Albert Guu</strong></td>
+            <td>Stanford University</td>
+            <td>Combining Recurrent, Convolutional, and Continuous-time Models with Linear State Space Layers</td>
+            <td>29 Nov</td>
         </tr>
         <tr>
             <td><strong>Edoardo Ponti</strong></td>
