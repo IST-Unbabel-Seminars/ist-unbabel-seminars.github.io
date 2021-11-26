@@ -82,9 +82,9 @@ th, td {
     </thead>
     <tbody>
          <tr>
-            <td><strong>Albert Guu</strong></td>
+            <td><strong>Albert Gu</strong></td>
             <td>Stanford University</td>
-            <td>Combining Recurrent, Convolutional, and Continuous-time Models with Linear State Space Layers</td>
+            <td>Efficiently Modeling Long Sequences with Structured State Spaces</td>
             <td>29 Nov</td>
         </tr>
         <tr>
