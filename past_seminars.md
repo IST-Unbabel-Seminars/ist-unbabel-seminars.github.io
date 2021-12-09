@@ -59,6 +59,18 @@ th, td {
     </thead>
     <tbody>
         <tr class="past-row">
+            <td><strong>Albert Gu</strong></td>
+            <td>Stanford University</td>
+            <td>Efficiently Modeling Long Sequences with Structured State Spaces</td>
+            <td>29 Nov</td>
+        </tr>
+        <tr class="past-row">
+            <td><strong>Edoardo Ponti</strong></td>
+            <td>Mila - Quebec</td>
+            <td>Inductive Biases for Modelling the World's Languages</td>
+            <td>6 Dec</td>
+        </tr>
+        <tr class="past-row">
             <td><strong>Wilker Aziz</strong></td>
             <td>University of Amsterdam</td>
             <td>Sampling-based minimum Bayes risk decoding for NMT</td>

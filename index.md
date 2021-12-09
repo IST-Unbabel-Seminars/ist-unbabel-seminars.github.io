@@ -81,22 +81,10 @@ th, td {
         </tr>
     </thead>
     <tbody>
-         <tr>
-            <td><strong>Albert Gu</strong></td>
-            <td>Stanford University</td>
-            <td>Efficiently Modeling Long Sequences with Structured State Spaces</td>
-            <td>29 Nov</td>
-        </tr>
-        <tr>
-            <td><strong>Edoardo Ponti</strong></td>
-            <td>Mila - Quebec</td>
-            <td>TBD</td>
-            <td>6 Dec</td>
-        </tr>
         <tr>
             <td><strong>Laurent Besacier</strong></td>
             <td>Naver Labs Europe</td>
-            <td>TBD</td>
+            <td>Self Supervised Representation Learning for Pre-training Speech Systems ​​​(and Its Application to Speech Translation)</td>
             <td>13 Dec</td>
         </tr>
         <tr>
