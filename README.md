@@ -1,3 +1,11 @@
+# Fast edits
+
+To add new talks go to `index.md` and follow the structure there (should be quite simple).
+To add talks to past seminars, follow the structure of `past_seminars.md`, which should also be quite simple.
+
+Theme by Hyde. Credits below.
+
+
 # Hyde
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
