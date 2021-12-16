@@ -58,9 +58,8 @@ th, td {
         </tr>
     </thead>
     <tbody>
-    <tr>
         <tr class="past-row">
-        <td><strong>Laurent Besacier</strong></td>
+            <td><strong>Laurent Besacier</strong></td>
             <td>Naver Labs Europe</td>
             <td>Self Supervised Representation Learning for Pre-training Speech Systems ​​​(and Its Application to Speech Translation)</td>
             <td>13 Dec</td>

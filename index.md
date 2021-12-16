@@ -82,15 +82,9 @@ th, td {
     </thead>
     <tbody>
         <tr>
-            <td><strong>Laurent Besacier</strong></td>
-            <td>Naver Labs Europe</td>
-            <td>Self Supervised Representation Learning for Pre-training Speech Systems ​​​(and Its Application to Speech Translation)</td>
-            <td>13 Dec</td>
-        </tr>
-        <tr>
             <td><strong>Victor Sanh</strong></td>
             <td>HuggingFace</td>
-            <td>TBD</td>
+            <td>Lots of data, lots of parameters: a different way to get funky task zero-shot generalization</td>
             <td>20 Dec</td>
         </tr>
         <tr>
