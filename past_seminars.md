@@ -59,6 +59,12 @@ th, td {
     </thead>
     <tbody>
         <tr class="past-row">
+            <td><strong>Victor Sanh</strong></td>
+            <td>HuggingFace</td>
+            <td>Lots of data, lots of parameters: a different way to get funky task zero-shot generalization</td>
+            <td>20 Dec</td>
+        </tr>
+        <tr class="past-row">
             <td><strong>Laurent Besacier</strong></td>
             <td>Naver Labs Europe</td>
             <td>Self Supervised Representation Learning for Pre-training Speech Systems ​​​(and Its Application to Speech Translation)</td>

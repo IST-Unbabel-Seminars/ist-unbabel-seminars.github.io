@@ -82,15 +82,9 @@ th, td {
     </thead>
     <tbody>
         <tr>
-            <td><strong>Victor Sanh</strong></td>
-            <td>HuggingFace</td>
-            <td>Lots of data, lots of parameters: a different way to get funky task zero-shot generalization</td>
-            <td>20 Dec</td>
-        </tr>
-        <tr>
             <td><strong>Leonardo Ribeiro</strong></td>
             <td>TU Darmstadt</td>
-            <td>TBD</td>
+            <td>Improving Graph-to-Text Generation with Graph Neural Encoders and Pretrained Language Models</td>
             <td>10 Jan</td>
         </tr>
         <tr>
