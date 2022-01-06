@@ -105,6 +105,12 @@ th, td {
             <td>TBD</td>
             <td>31 Jan</td>
         </tr>
+        <tr>
+            <td><strong>Rémi Leblond</strong></td>
+            <td>DeepMind</td>
+            <td>TBD</td>
+            <td>07 Feb</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
