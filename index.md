@@ -111,6 +111,18 @@ th, td {
             <td>TBD</td>
             <td>07 Feb</td>
         </tr>
+	<tr>
+            <td><strong>Tom Kocmi</strong></td>
+            <td>Microsoft Research</td>
+            <td>To ship or not to ship?</td>
+            <td>21 Feb</td>
+        </tr>
+	<tr>
+            <td><strong>Markus Freitag</strong></td>
+            <td>Google Research</td>
+            <td>TBD</td>
+            <td>28 Feb</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
