@@ -59,6 +59,12 @@ th, td {
     </thead>
     <tbody>
         <tr class="past-row">
+            <td><strong>Leonardo Ribeiro</strong></td>
+            <td>TU Darmstadt</td>
+            <td>Improving Graph-to-Text Generation with Graph Neural Encoders and Pretrained Language Models</td>
+            <td>10 Jan</td>
+        </tr>
+        <tr class="past-row">
             <td><strong>Victor Sanh</strong></td>
             <td>HuggingFace</td>
             <td>Lots of data, lots of parameters: a different way to get funky task zero-shot generalization</td>
