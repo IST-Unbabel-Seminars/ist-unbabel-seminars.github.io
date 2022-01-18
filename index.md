@@ -81,16 +81,10 @@ th, td {
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td><strong>Victor Veitch</strong></td>
-            <td>University of Chicago and Google Research</td>
-            <td>TBD</td>
-            <td>17 Jan</td>
-        </tr>
          <tr>
             <td><strong>Samuel Bowman</strong></td>
             <td>New York University</td>
-            <td>TBD</td>
+            <td>When Combating Hype, Proceed with Caution</td>
             <td>24 Jan</td>
         </tr>
          <tr>
@@ -104,6 +98,12 @@ th, td {
             <td>DeepMind</td>
             <td>TBD</td>
             <td>07 Feb</td>
+        </tr>
+        <tr>
+            <td><strong>Caleb Ziems</strong></td>
+            <td>Georgia Tech</td>
+            <td>TBD</td>
+            <td>14 Feb</td>
         </tr>
 	<tr>
             <td><strong>Tom Kocmi</strong></td>

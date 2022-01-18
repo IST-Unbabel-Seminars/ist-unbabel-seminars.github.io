@@ -59,6 +59,12 @@ th, td {
     </thead>
     <tbody>
         <tr class="past-row">
+            <td><strong>Victor Veitch</strong></td>
+            <td>University of Chicago and Google Research</td>
+            <td>TBD</td>
+            <td>17 Jan</td>
+        </tr>
+        <tr class="past-row">
             <td><strong>Leonardo Ribeiro</strong></td>
             <td>TU Darmstadt</td>
             <td>Improving Graph-to-Text Generation with Graph Neural Encoders and Pretrained Language Models</td>
