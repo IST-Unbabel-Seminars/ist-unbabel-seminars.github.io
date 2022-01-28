@@ -59,9 +59,15 @@ th, td {
     </thead>
     <tbody>
         <tr class="past-row">
+            <td><strong>Samuel Bowman</strong></td>
+            <td>New York University</td>
+            <td>When Combating Hype, Proceed with Caution</td>
+            <td>24 Jan</td>
+        </tr>
+        <tr class="past-row">
             <td><strong>Victor Veitch</strong></td>
             <td>University of Chicago and Google Research</td>
-            <td>TBD</td>
+            <td>Counterfactual Invariance to Spurious Correlations</td>
             <td>17 Jan</td>
         </tr>
         <tr class="past-row">
