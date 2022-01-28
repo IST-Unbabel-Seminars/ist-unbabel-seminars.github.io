@@ -82,15 +82,9 @@ th, td {
     </thead>
     <tbody>
          <tr>
-            <td><strong>Samuel Bowman</strong></td>
-            <td>New York University</td>
-            <td>When Combating Hype, Proceed with Caution</td>
-            <td>24 Jan</td>
-        </tr>
-         <tr>
             <td><strong>Elizabeth Salesky</strong></td>
             <td>Johns Hopkins University</td>
-            <td>TBD</td>
+            <td>Robust Open-Vocabulary Translation from Visual Text Representations</td>
             <td>31 Jan</td>
         </tr>
         <tr>
