@@ -81,18 +81,6 @@ th, td {
         </tr>
     </thead>
     <tbody>
-         <tr>
-            <td><strong>Elizabeth Salesky</strong></td>
-            <td>Johns Hopkins University</td>
-            <td>Robust Open-Vocabulary Translation from Visual Text Representations</td>
-            <td>31 Jan</td>
-        </tr>
-        <tr>
-            <td><strong>Rémi Leblond</strong></td>
-            <td>DeepMind</td>
-            <td>TBD</td>
-            <td>07 Feb</td>
-        </tr>
         <tr>
             <td><strong>Caleb Ziems</strong></td>
             <td>Georgia Tech</td>
