@@ -48,6 +48,8 @@ th, td {
 </style>
 </head>
 
+**You can find recordings from past seminars in [here](https://drive.google.com/drive/folders/1I_OVS7wuWJwPmvyA9lE_zXVKkUDuNb2L?usp=sharing)**
+
 <table>
     <thead>
         <tr>
@@ -58,6 +60,18 @@ th, td {
         </tr>
     </thead>
     <tbody>
+        <tr class="past-row">
+            <td><strong>Rémi Leblond</strong></td>
+            <td>DeepMind</td>
+            <td>Machine Translation Decoding beyond Beam Search</td>
+            <td>07 Feb</td>
+        </tr>
+        <tr class="past-row">
+            <td><strong>Elizabeth Salesky</strong></td>
+            <td>Johns Hopkins University</td>
+            <td>Robust Open-Vocabulary Translation from Visual Text Representations</td>
+            <td>31 Jan</td>
+        </tr>
         <tr class="past-row">
             <td><strong>Samuel Bowman</strong></td>
             <td>New York University</td>
