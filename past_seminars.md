@@ -61,6 +61,24 @@ th, td {
     </thead>
     <tbody>
         <tr class="past-row">
+            <td><strong>Markus Freitag</strong></td>
+            <td>Google Research</td>
+            <td>Minimum Bayes Risk Decoding with Neural Metrics of Translation Quality</td>
+            <td>28 Feb</td>
+        </tr>
+	    <tr class="past-row">
+            <td><strong>Tom Kocmi</strong></td>
+            <td>Microsoft Research</td>
+            <td>To ship or not to ship?</td>
+            <td>21 Feb</td>
+        </tr>
+        <tr class="past-row">
+            <td><strong>Caleb Ziems</strong></td>
+            <td>Georgia Tech</td>
+            <td>Social NLP for Positive and Civil Interactions</td>
+            <td>14 Feb</td>
+        </tr>
+        <tr class="past-row">
             <td><strong>Rémi Leblond</strong></td>
             <td>DeepMind</td>
             <td>Machine Translation Decoding beyond Beam Search</td>
