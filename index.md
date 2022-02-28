@@ -17,7 +17,7 @@ layout: home
 </p>
 
 <link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
-Please contact <a href = "mailto: miguelguerreironuno@gmail.com">Nuno Miguel Guerreiro</a> for any questions regarding the seminars!
+Please contact <a href = "mailto: miguelguerreironuno@gmail.com">Nuno Miguel Guerreiro</a> or <a href = "mailto: ricardo.rei@unbabel.com">Ricardo Rei</a> for any questions regarding the seminars!
 <br />
 <br />
 
