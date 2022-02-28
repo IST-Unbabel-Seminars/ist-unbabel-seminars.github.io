@@ -82,22 +82,28 @@ th, td {
     </thead>
     <tbody>
         <tr>
-            <td><strong>Caleb Ziems</strong></td>
-            <td>Georgia Tech</td>
-            <td>TBD</td>
-            <td>14 Feb</td>
+            <td><strong>Chantal Amrhein</strong></td>
+            <td>University of Zurich</td>
+            <td>Identifying Weaknesses in Machine Translation Metrics Through Minimum Bayes Risk Decoding: A Case Study for COMET</td>
+            <td>7 Mar</td>
         </tr>
 	<tr>
-            <td><strong>Tom Kocmi</strong></td>
-            <td>Microsoft Research</td>
-            <td>To ship or not to ship?</td>
-            <td>21 Feb</td>
+            <td><strong>Clara Meister</strong></td>
+            <td>ETH Zurich</td>
+            <td>Typical Decoding for Natural Language Generation</td>
+            <td>14 Mar</td>
         </tr>
 	<tr>
-            <td><strong>Markus Freitag</strong></td>
-            <td>Google Research</td>
-            <td>TBD</td>
-            <td>28 Feb</td>
+            <td><strong>Roma Patel</strong></td>
+            <td>Brown University</td>
+            <td>Mapping Language Models to Grounded Conceptual Spaces</td>
+            <td>21 Mar</td>
+        </tr>
+	<tr>
+            <td><strong>João Sacramento</strong></td>
+            <td>ETH Zurich</td>
+            <td>TBA</td>
+            <td>28 Mar</td>
         </tr>
         <!-- and so on... -->
     </tbody>
