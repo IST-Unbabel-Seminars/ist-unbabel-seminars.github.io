@@ -60,6 +60,12 @@ th, td {
         </tr>
     </thead>
     <tbody>
+	 <tr class="past-row">
+            <td><strong>Chantal Amrhein</strong></td>
+            <td>University of Zurich</td>
+            <td>Identifying Weaknesses in Machine Translation Metrics Through Minimum Bayes Risk Decoding: A Case Study for COMET</td>
+            <td>7 Mar</td>
+        </tr>
         <tr class="past-row">
             <td><strong>Markus Freitag</strong></td>
             <td>Google Research</td>
