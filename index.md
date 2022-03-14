@@ -99,6 +99,30 @@ th, td {
             <td>TBA</td>
             <td>28 Mar</td>
         </tr>
+	<tr>
+	    <td>TBA</td>
+	    <td>TBA</td>
+            <td>TBA</td>
+            <td>4 Apr</td>
+        </tr>
+	<tr>
+	    <td>TBA</td>
+	    <td>TBA</td>
+            <td>TBA</td>
+            <td>11 Apr</td>
+        </tr>
+	<tr>
+            <td><strong>Vânia Mendonça</strong></td>
+            <td>Instituto Superio Técnico - University of Lisbon</td>
+            <td>Onception: Active Learning with Expert Advice for Real World Machine Translation</td>
+            <td>18 Apr</td>
+        </tr>
+	<tr>
+	    <td>TBA</td>
+	    <td>TBA</td>
+            <td>TBA</td>
+	    <td>25 Apr</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
