@@ -82,7 +82,7 @@ th, td {
     </thead>
     <tbody>
 	<tr>
-	    <td>Anirudh Goyaltd>
+	    <td><strong>Anirudh Goyal</strong></td>
 	    <td>Mila, University of Montreal</td>
             <td>Coordination Among Neural Modules Through a Shared Global Work space</td>
             <td>4 Apr</td>
