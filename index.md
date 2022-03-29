@@ -82,24 +82,6 @@ th, td {
     </thead>
     <tbody>
 	<tr>
-            <td><strong>Clara Meister</strong></td>
-            <td>ETH Zurich</td>
-            <td>Typical Decoding for Natural Language Generation</td>
-            <td>14 Mar</td>
-        </tr>
-	<tr>
-            <td><strong>Roma Patel</strong></td>
-            <td>Brown University</td>
-            <td>Mapping Language Models to Grounded Conceptual Spaces</td>
-            <td>21 Mar</td>
-        </tr>
-	<tr>
-            <td><strong>João Sacramento</strong></td>
-            <td>ETH Zurich</td>
-            <td>TBA</td>
-            <td>28 Mar</td>
-        </tr>
-	<tr>
 	    <td>TBA</td>
 	    <td>TBA</td>
             <td>TBA</td>
