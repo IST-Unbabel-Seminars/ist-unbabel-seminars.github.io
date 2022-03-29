@@ -100,9 +100,9 @@ th, td {
             <td>18 Apr</td>
         </tr>
 	<tr>
-	    <td>Portuguese Liberty Day!</td>
-	    <td>TBA</td>
-            <td>TBA</td>
+	    <td>Holiday</td>
+	    <td>Holiday</td>
+            <td>Portuguese Liberty Day!</td>
 	    <td>25 Apr</td>
         </tr>
         <!-- and so on... -->
