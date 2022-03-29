@@ -60,6 +60,18 @@ th, td {
         </tr>
     </thead>
     <tbody>
+	<tr class="past-row">
+            <td><strong>João Sacramento</strong></td>
+            <td>ETH Zurich</td>
+            <td>On biologically-plausible meta-learning</td>
+            <td>28 Mar</td>
+        </tr>
+	<tr class="past-row">
+            <td><strong>Clara Meister</strong></td>
+            <td>ETH Zurich</td>
+            <td>Typical Decoding for Natural Language Generation</td>
+            <td>14 Mar</td>
+        </tr>
 	 <tr class="past-row">
             <td><strong>Chantal Amrhein</strong></td>
             <td>University of Zurich</td>
