@@ -82,9 +82,9 @@ th, td {
     </thead>
     <tbody>
 	<tr>
-	    <td>TBA</td>
-	    <td>TBA</td>
-            <td>TBA</td>
+	    <td>Anirudh Goyaltd>
+	    <td>Mila, University of Montreal</td>
+            <td>Coordination Among Neural Modules Through a Shared Global Work space</td>
             <td>4 Apr</td>
         </tr>
 	<tr>
