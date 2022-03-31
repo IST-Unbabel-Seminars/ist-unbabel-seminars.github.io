@@ -88,8 +88,8 @@ th, td {
             <td>4 Apr</td>
         </tr>
 	<tr>
-	    <td>TBA</td>
-	    <td>TBA</td>
+	    <td><strong>Ana Marasovic</strong></td>
+	    <td>Allen Institute for AI, University of Washington</td>
             <td>TBA</td>
             <td>11 Apr</td>
         </tr>
