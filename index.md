@@ -105,7 +105,6 @@ th, td {
             <td>Uncertainty Estimation in Autoregressive Structured Prediction</td>
             <td>16 May</td>
         </tr>
-	<tr>
         <!-- and so on... -->
     </tbody>
 </table>
