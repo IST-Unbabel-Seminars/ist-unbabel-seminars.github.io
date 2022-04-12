@@ -81,25 +81,25 @@ th, td {
         </tr>
     </thead>
     <tbody>
-	<tr>
+	    <tr>
             <td><strong>Vânia Mendonça</strong></td>
             <td>Instituto Superio Técnico - University of Lisbon</td>
             <td>Onception: Active Learning with Expert Advice for Real World Machine Translation</td>
             <td>18 Apr</td>
         </tr>
-	<tr>
+	    <tr>
 	    <td>Holiday</td>
 	    <td>Holiday</td>
             <td>National Holiday in Portugal</td>
 	    <td>25 Apr</td>
         </tr>
-    <tr>
+        <tr>
             <td><strong>Jannis Vamvas</strong></td>
             <td>University of Zurich</td>
             <td> As Little as Possible, as Much as Necessary: Detecting Over- and Undertranslations with Contrastive Conditioning</td>
             <td>2 May</td>
         </tr>
-    <tr>
+        <tr>
             <td><strong>Andrey Malinin</strong></td>
             <td>Yandex Research</td>
             <td>Uncertainty Estimation in Autoregressive Structured Prediction</td>
