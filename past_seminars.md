@@ -60,13 +60,12 @@ th, td {
         </tr>
     </thead>
     <tbody>
-    <tr class="past-row">
+        <tr class="past-row">
 	    <td><strong>Ana Marasovic</strong></td>
 	    <td>Allen Institute for AI, University of Washington</td>
             <td>Self-Explaining for Intuitive Interaction with AI</td>
             <td>11 Apr</td>
         </tr>
-	<tr>
     <tr class="past-row">
 	    <td><strong>Anirudh Goyal</strong></td>
 	    <td>Mila, University of Montreal</td>
