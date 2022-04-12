@@ -81,9 +81,21 @@ th, td {
         </tr>
     </thead>
     <tbody>
+	<tr>
+	    <td><strong>Anirudh Goyal</strong></td>
+	    <td>Mila, University of Montreal</td>
+            <td>Coordination Among Neural Modules Through a Shared Global Work space</td>
+            <td>4 Apr</td>
+        </tr>
+	<tr>
+	    <td><strong>Ana Marasovic</strong></td>
+	    <td>Allen Institute for AI, University of Washington</td>
+            <td>TBA</td>
+            <td>11 Apr</td>
+        </tr>
 	    <tr>
             <td><strong>Vânia Mendonça</strong></td>
-            <td>Instituto Superio Técnico - University of Lisbon</td>
+            <td>Instituto Superior Técnico - University of Lisbon</td>
             <td>Onception: Active Learning with Expert Advice for Real World Machine Translation</td>
             <td>18 Apr</td>
         </tr>
