@@ -60,6 +60,12 @@ th, td {
         </tr>
     </thead>
     <tbody>
+	<tr class="past-row">
+            <td><strong>Vânia Mendonça</strong></td>
+            <td>Instituto Superior Técnico - University of Lisbon</td>
+            <td>Onception: Active Learning with Expert Advice for Real World Machine Translation</td>
+            <td>18 Apr</td>
+        </tr>
         <tr class="past-row">
 	    <td><strong>Ana Marasovic</strong></td>
 	    <td>Allen Institute for AI, University of Washington</td>
