@@ -82,12 +82,6 @@ th, td {
     </thead>
     <tbody>
 	    <tr>
-            <td><strong>Vânia Mendonça</strong></td>
-            <td>Instituto Superior Técnico - University of Lisbon</td>
-            <td>Onception: Active Learning with Expert Advice for Real World Machine Translation</td>
-            <td>18 Apr</td>
-        </tr>
-	    <tr>
             <td>Holiday</td>
             <td>Holiday</td>
             <td>National Holiday in Portugal</td>
