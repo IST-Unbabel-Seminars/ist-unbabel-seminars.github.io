@@ -60,6 +60,18 @@ th, td {
         </tr>
     </thead>
     <tbody>
+    <tr class="past-row">
+            <td><strong>Andrey Malinin</strong></td>
+            <td>Yandex Research</td>
+            <td>Uncertainty Estimation in Autoregressive Structured Prediction</td>
+            <td>16 May</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>Jannis Vamvas</strong></td>
+            <td>University of Zurich</td>
+            <td> As Little as Possible, as Much as Necessary: Detecting Over- and Undertranslations with Contrastive Conditioning</td>
+            <td>2 May</td>
+        </tr>
 	<tr class="past-row">
             <td><strong>Vânia Mendonça</strong></td>
             <td>Instituto Superior Técnico - University of Lisbon</td>
