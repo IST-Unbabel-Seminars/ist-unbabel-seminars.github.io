@@ -93,6 +93,12 @@ th, td {
             <td> Lifting the Curse of Multilinguality by Pre-training Modular Transformers</td>
             <td>13 July</td>
         </tr>
+	<tr>
+            <td><strong>Vikas Raunak & Matt Post</strong></td>
+            <td>Microsoft Research</td>
+            <td>SALTED: A Framework for SAlient Long-Tail Translation Error Detection</td>
+            <td>18 July</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
