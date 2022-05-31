@@ -61,6 +61,12 @@ th, td {
     </thead>
     <tbody>
     <tr class="past-row">
+            <td><strong>Edward Hu</strong></td>
+            <td>Mila</td>
+            <td>Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer</td>
+            <td>30 May</td>
+        </tr>
+    <tr class="past-row">
             <td><strong>Andrey Malinin</strong></td>
             <td>Yandex Research</td>
             <td>Uncertainty Estimation in Autoregressive Structured Prediction</td>

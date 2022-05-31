@@ -82,16 +82,22 @@ th, td {
     </thead>
     <tbody>
         <tr>
-            <td><strong>Edward Hu</strong></td>
-            <td>Mila</td>
-            <td>Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer</td>
-            <td>30 May</td>
-        </tr>
-        <tr>
             <td><strong>Jonas Pfeiffer</strong></td>
             <td>New York University / Technical University of Darmstadt</td>
             <td> Lifting the Curse of Multilinguality by Pre-training Modular Transformers</td>
-            <td>13 July</td>
+            <td>13 June</td>
+        </tr>
+        <tr>
+            <td><strong>Jungo Kasai</strong></td>
+            <td>University of Washington</td>
+            <td> Twist Decoding: Diverse Generators Guide Each Other</td>
+            <td>27 June</td>
+        </tr>
+        <tr>
+            <td><strong>Vikas Raunak and Matt Post</strong></td>
+            <td>Microsoft</td>
+            <td>SALTED: A Framework for SAlient Long-Tail Translation Error Detection</td>
+            <td>18 July</td>
         </tr>
         <!-- and so on... -->
     </tbody>
