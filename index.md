@@ -94,6 +94,12 @@ th, td {
             <td>27 June</td>
         </tr>
         <tr>
+            <td><strong>Ahmet Üstün and Asa Cooper Stickland</strong></td>
+            <td>University of Groningen and University of Edinburgh</td>
+            <td>When does Parameter-Efficient Transfer Learning Work for Machine Translation?</td>
+            <td>11 July</td>
+        </tr>
+        <tr>
             <td><strong>Vikas Raunak and Matt Post</strong></td>
             <td>Microsoft</td>
             <td>SALTED: A Framework for SAlient Long-Tail Translation Error Detection</td>
