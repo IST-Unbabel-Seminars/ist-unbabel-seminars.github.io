@@ -105,6 +105,12 @@ th, td {
             <td>SALTED: A Framework for SAlient Long-Tail Translation Error Detection</td>
             <td>18 July</td>
         </tr>
+        <tr>
+            <td><strong>Weijia Shi</strong></td>
+            <td>Microsoft</td>
+            <td>University of Washington</td>
+            <td>25 July</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
