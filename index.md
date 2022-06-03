@@ -107,8 +107,8 @@ th, td {
         </tr>
         <tr>
             <td><strong>Weijia Shi</strong></td>
-            <td>Microsoft</td>
             <td>University of Washington</td>
+            <td>Nearest Neighbor Zero-Shot Inference</td>
             <td>25 July</td>
         </tr>
         <!-- and so on... -->
