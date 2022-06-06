@@ -85,7 +85,7 @@ th, td {
             <td><strong>Jonas Pfeiffer</strong></td>
             <td>New York University / Technical University of Darmstadt</td>
             <td> Lifting the Curse of Multilinguality by Pre-training Modular Transformers</td>
-            <td>13 June</td>
+            <td>20 June</td>
         </tr>
         <tr>
             <td><strong>Jungo Kasai</strong></td>
