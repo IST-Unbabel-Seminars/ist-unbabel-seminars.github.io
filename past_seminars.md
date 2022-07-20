@@ -61,10 +61,10 @@ th, td {
     </thead>
     <tbody>
     <tr class="past-row">
-        <td><strong>Jonas Pfeiffer</strong></td>
-        <td>New York University / Technical University of Darmstadt</td>
-        <td> Lifting the Curse of Multilinguality by Pre-training Modular Transformers</td>
-        <td>20 June</td>
+        <td><strong>Vikas Raunak and Matt Post</strong></td>
+        <td>Microsoft</td>
+        <td>SALTED: A Framework for SAlient Long-Tail Translation Error Detection</td>
+        <td>18 July</td>
     </tr>
     <tr class="past-row">
         <td><strong>Jungo Kasai</strong></td>
@@ -73,10 +73,10 @@ th, td {
         <td>27 June</td>
     </tr>
     <tr class="past-row">
-        <td><strong>Vikas Raunak and Matt Post</strong></td>
-        <td>Microsoft</td>
-        <td>SALTED: A Framework for SAlient Long-Tail Translation Error Detection</td>
-        <td>18 July</td>
+        <td><strong>Jonas Pfeiffer</strong></td>
+        <td>New York University / Technical University of Darmstadt</td>
+        <td> Lifting the Curse of Multilinguality by Pre-training Modular Transformers</td>
+        <td>20 June</td>
     </tr>
     <tr class="past-row">
             <td><strong>Edward Hu</strong></td>
