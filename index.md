@@ -21,6 +21,14 @@ Please contact <a href = "mailto: miguelguerreironuno@gmail.com">Nuno Miguel Gue
 <br />
 <br />
 
+
+<p class="message">
+  <strong>We will be resting during August. Come back in September for the first seminars of 2022/2023!</strong><br />
+</p>
+
+<br />
+<br />
+
 ## Seminars in 2021/2022<br />
 
 ### Upcoming Seminars
@@ -81,30 +89,6 @@ th, td {
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td><strong>Jonas Pfeiffer</strong></td>
-            <td>New York University / Technical University of Darmstadt</td>
-            <td> Lifting the Curse of Multilinguality by Pre-training Modular Transformers</td>
-            <td>20 June</td>
-        </tr>
-        <tr>
-            <td><strong>Jungo Kasai</strong></td>
-            <td>University of Washington</td>
-            <td> Twist Decoding: Diverse Generators Guide Each Other</td>
-            <td>27 June</td>
-        </tr>
-        <tr>
-            <td><strong>Ahmet Üstün and Asa Cooper Stickland</strong></td>
-            <td>University of Groningen and University of Edinburgh</td>
-            <td>When does Parameter-Efficient Transfer Learning Work for Machine Translation?</td>
-            <td>11 July</td>
-        </tr>
-        <tr>
-            <td><strong>Vikas Raunak and Matt Post</strong></td>
-            <td>Microsoft</td>
-            <td>SALTED: A Framework for SAlient Long-Tail Translation Error Detection</td>
-            <td>18 July</td>
-        </tr>
         <tr>
             <td><strong>Weijia Shi</strong></td>
             <td>University of Washington</td>
