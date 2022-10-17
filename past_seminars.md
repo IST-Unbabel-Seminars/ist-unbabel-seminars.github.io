@@ -61,6 +61,36 @@ th, td {
     </thead>
     <tbody>
     <tr class="past-row">
+        <td><strong>Ivan Vulić</strong></td>
+        <td>University of Cambridge & PolyAI</td>
+        <td>Towards Language Technology for a Truly Multilingual World?</td>
+        <td>10 October</td>
+    </tr>
+    <tr class="past-row">
+        <td><strong>Pierre Colombo</strong></td>
+        <td>Université Paris Saclay</td>
+        <td>What are the best systems? New perspectives on NLP Benchmarking</td>
+        <td>3 October</td>
+    </tr>
+   <tr class="past-row">
+        <td><strong>Ilia Kulikov</strong></td>
+        <td>New York University</td>
+        <td>Characterizing and addressing the issue of oversmoothing in neural autoregressive sequence modeling</td>
+        <td>26 September</td>
+    </tr>
+    <tr class="past-row">
+        <td><strong>Niranjan Balasubramanian</strong></td>
+        <td>Stony Brook University</td>
+        <td>What ails multihop QA and how to fix it</td>
+        <td>19 September</td>
+    </tr>   
+    <tr class="past-row">
+        <td><strong>Weijia Shi</strong></td>
+        <td>University of Washingto</td>
+        <td>Nearest Neighbor Zero-Shot Inference</td>
+        <td>25 July</td>
+    </tr>
+    <tr class="past-row">
         <td><strong>Vikas Raunak and Matt Post</strong></td>
         <td>Microsoft</td>
         <td>SALTED: A Framework for SAlient Long-Tail Translation Error Detection</td>
