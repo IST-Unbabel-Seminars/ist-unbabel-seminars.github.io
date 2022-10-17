@@ -23,7 +23,7 @@ Please contact <a href = "mailto: miguelguerreironuno@gmail.com">Nuno Miguel Gue
 
 
 <p class="message">
-  <strong>We will be resting during August. Come back in September for the first seminars of 2022/2023!</strong><br />
+  <strong>We are back with new talks! Please check the schedule for following seminars!</strong><br />
 </p>
 
 <br />
