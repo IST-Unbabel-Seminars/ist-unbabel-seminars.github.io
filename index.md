@@ -92,7 +92,7 @@ th, td {
         <tr>
             <td><strong>Alex Warstadt</strong></td>
             <td>ETH Zürich</td>
-            <td>TBA</td>
+            <td>Artificial neural networks as models of human language learning</td>
             <td>17 Oct</td>
         </tr>
         <tr>
