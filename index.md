@@ -107,6 +107,18 @@ th, td {
             <td>TBA</td>
             <td>7 Nov</td>
         </tr>
+        <tr>
+            <td><strong>Sara Magliacane</strong></td>
+            <td>University of Amsterdam</td>
+            <td>On Causal Representation Learning</td>
+            <td>14 Nov</td>
+        </tr>
+        <tr>
+            <td><strong>Giorgios Vernikos</strong></td>
+            <td>EPFL</td>
+            <td> Embarrassingly Easy Document-Level MT Metrics</td>
+            <td>28 Nov</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
