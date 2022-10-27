@@ -90,18 +90,6 @@ th, td {
     </thead>
     <tbody>
         <tr>
-            <td><strong>Alex Warstadt</strong></td>
-            <td>ETH Zürich</td>
-            <td>Artificial neural networks as models of human language learning</td>
-            <td>17 Oct</td>
-        </tr>
-        <tr>
-            <td><strong>Carolina Scarton</strong></td>
-            <td>University of Sheffield</td>
-            <td>One size does not fit all: building NLP models for real-world applications</td>
-            <td>24 Oct</td>
-        </tr>
-        <tr>
             <td><strong>Graham Neubig</strong></td>
             <td>Carnegie Mellon University</td>
             <td>TBA</td>
