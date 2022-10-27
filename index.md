@@ -107,6 +107,12 @@ th, td {
             <td> Embarrassingly Easy Document-Level MT Metrics</td>
             <td>28 Nov</td>
         </tr>
+	<tr>
+            <td><strong>Mateusz Krubinski</strong></td>
+            <td>Charles University, Czech Republic</td>
+            <td>Can Summary Evaluation Benefit from Translation Evaluation?</td>
+            <td>5 Dec</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
