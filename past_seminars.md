@@ -49,7 +49,7 @@ th, td {
 </head>
 
 **You can find recordings from past seminars in [here](https://drive.google.com/drive/folders/1I_OVS7wuWJwPmvyA9lE_zXVKkUDuNb2L?usp=sharing)**
-
+	
 <table>
     <thead>
         <tr>
@@ -60,6 +60,18 @@ th, td {
         </tr>
     </thead>
     <tbody>
+    <tr class="past-row">
+        <td><strong>Carolina Scarton</strong></td>
+        <td>University of Sheffield</td>
+        <td>One size does not fit all: building NLP models for real-world applications</td>
+        <td>24 October</td>
+    </tr>
+    <tr class="past-row">
+        <td><strong>Alex Warstadt</strong></td>
+        <td>ETH Zürich</td>
+        <td>Artificial neural networks as models of human language learning</td>
+        <td>17 October</td>
+    </tr>
     <tr class="past-row">
         <td><strong>Ivan Vulić</strong></td>
         <td>University of Cambridge & PolyAI</td>
