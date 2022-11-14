@@ -90,12 +90,6 @@ th, td {
     </thead>
     <tbody>
         <tr>
-            <td><strong>Graham Neubig</strong></td>
-            <td>Carnegie Mellon University</td>
-            <td>TBA</td>
-            <td>7 Nov</td>
-        </tr>
-        <tr>
             <td><strong>Sara Magliacane</strong></td>
             <td>University of Amsterdam</td>
             <td>On Causal Representation Learning</td>
@@ -112,6 +106,12 @@ th, td {
             <td>Charles University, Czech Republic</td>
             <td>Can Summary Evaluation Benefit from Translation Evaluation?</td>
             <td>5 Dec</td>
+        </tr>
+    <tr>
+            <td><strong>Pasquale Minervini</strong></td>
+            <td>University of Edinburgh</td>
+            <td>Implicit MLE: Backpropagating Through Discrete Exponential Family Distributions</td>
+            <td>19 Dec</td>
         </tr>
         <!-- and so on... -->
     </tbody>

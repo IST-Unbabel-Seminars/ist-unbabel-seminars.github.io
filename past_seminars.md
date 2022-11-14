@@ -61,6 +61,12 @@ th, td {
     </thead>
     <tbody>
     <tr class="past-row">
+            <td><strong>Graham Neubig</strong></td>
+            <td>Carnegie Mellon University</td>
+            <td>Neuro-Symbolic Language Modeling with Retrieval Automaton</td>
+            <td>7 Nov</td>
+        </tr>
+    <tr class="past-row">
         <td><strong>Carolina Scarton</strong></td>
         <td>University of Sheffield</td>
         <td>One size does not fit all: building NLP models for real-world applications</td>
