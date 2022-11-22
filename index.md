@@ -101,6 +101,18 @@ th, td {
             <td> Embarrassingly Easy Document-Level MT Metrics</td>
             <td>28 Nov</td>
         </tr>
+	<tr>
+            <td><strong>EMNLP 2022 🥳</strong></td>
+            <td></td>
+            <td></td>
+            <td>5 Dec</td>
+        </tr>
+	<tr>
+            <td><strong>EMNLP 2022 🥳</strong></td>
+            <td></td>
+            <td></td>
+            <td>12 Dec</td>
+        </tr>
         <tr>
             <td><strong>Pasquale Minervini</strong></td>
             <td>University of Edinburgh</td>
