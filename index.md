@@ -101,17 +101,17 @@ th, td {
             <td> Embarrassingly Easy Document-Level MT Metrics</td>
             <td>28 Nov</td>
         </tr>
-	<tr>
-            <td><strong>Mateusz Krubinski</strong></td>
-            <td>Charles University, Czech Republic</td>
-            <td>Can Summary Evaluation Benefit from Translation Evaluation?</td>
-            <td>5 Dec</td>
-        </tr>
-    <tr>
+        <tr>
             <td><strong>Pasquale Minervini</strong></td>
             <td>University of Edinburgh</td>
             <td>Implicit MLE: Backpropagating Through Discrete Exponential Family Distributions</td>
             <td>19 Dec</td>
+        </tr>
+	<tr>
+            <td><strong>Mateusz Krubinski</strong></td>
+            <td>Charles University, Czech Republic</td>
+            <td>Can Summary Evaluation Benefit from Translation Evaluation?</td>
+            <td>16 Jan</td>
         </tr>
         <!-- and so on... -->
     </tbody>
