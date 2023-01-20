@@ -90,40 +90,28 @@ th, td {
     </thead>
     <tbody>
         <tr>
-            <td><strong>Sara Magliacane</strong></td>
-            <td>University of Amsterdam</td>
-            <td>On Causal Representation Learning</td>
-            <td>14 Nov</td>
-        </tr>
-        <tr>
-            <td><strong>Giorgios Vernikos</strong></td>
-            <td>EPFL</td>
-            <td> Embarrassingly Easy Document-Level MT Metrics</td>
-            <td>28 Nov</td>
+            <td><strong>Misha Khalman</strong></td>
+            <td>Google Brain</td>
+            <td>Calibrating Sequence likelihood Improves Conditional Language Generation</td>
+            <td>23 Jan</td>
         </tr>
 	<tr>
-            <td><strong>EMNLP 2022 🥳</strong></td>
-            <td></td>
-            <td></td>
-            <td>5 Dec</td>
+            <td><strong>Catarina Botelho</strong></td>
+            <td>Instituto Superior Técnico & INESC-ID (HLT)</td>
+            <td>TBA </td>
+            <td>30 Jan</td>
         </tr>
 	<tr>
-            <td><strong>EMNLP 2022 🥳</strong></td>
-            <td></td>
-            <td></td>
-            <td>12 Dec</td>
-        </tr>
-        <tr>
-            <td><strong>Pasquale Minervini</strong></td>
+            <td><strong>Nikita Moghe</strong></td>
             <td>University of Edinburgh</td>
-            <td>Implicit MLE: Backpropagating Through Discrete Exponential Family Distributions</td>
-            <td>19 Dec</td>
+            <td>Extrinsic Evaluation of Machine Translation Metrics </td>
+            <td>6 Feb</td>
         </tr>
 	<tr>
-            <td><strong>Mateusz Krubinski</strong></td>
-            <td>Charles University, Czech Republic</td>
-            <td>Can Summary Evaluation Benefit from Translation Evaluation?</td>
-            <td>16 Jan</td>
+            <td><strong>Sweta Agrawal</strong></td>
+            <td>University of Maryland</td>
+            <td>TBA </td>
+            <td>13 Feb</td>
         </tr>
         <!-- and so on... -->
     </tbody>
