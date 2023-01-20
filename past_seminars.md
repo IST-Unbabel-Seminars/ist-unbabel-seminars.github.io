@@ -60,6 +60,30 @@ th, td {
         </tr>
     </thead>
     <tbody>
+	    <tr class="past-row">
+            <td><strong>Mateusz Krubinski</strong></td>
+            <td>Charles University, Czech Republic</td>
+            <td>Can Summary Evaluation Benefit from Translation Evaluation?</td>
+            <td>16 Jan</td>
+        </tr>
+	    <tr class="past-row">
+            <td><strong>Pasquale Minervini</strong></td>
+            <td>University of Edinburgh</td>
+            <td>Implicit MLE: Backpropagating Through Discrete Exponential Family Distributions</td>
+            <td>19 Dec</td>
+        </tr>
+	    <tr class="past-row">
+            <td><strong>Giorgios Vernikos</strong></td>
+            <td>EPFL</td>
+            <td> Embarrassingly Easy Document-Level MT Metrics</td>
+            <td>28 Nov</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>Sara Magliacane</strong></td>
+            <td>University of Amsterdam</td>
+            <td>On Causal Representation Learning</td>
+            <td>14 Nov</td>
+        </tr>
     <tr class="past-row">
             <td><strong>Graham Neubig</strong></td>
             <td>Carnegie Mellon University</td>
