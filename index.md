@@ -29,7 +29,7 @@ Please contact <a href = "mailto: miguelguerreironuno@gmail.com">Nuno Miguel Gue
 <br />
 <br />
 
-## Seminars in 2021/2022<br />
+## Seminars in 2023<br />
 
 ### Upcoming Seminars
 
@@ -112,6 +112,12 @@ th, td {
             <td>University of Maryland</td>
             <td>Generating and Evaluating Machine Translation in Context </td>
             <td>13 Feb</td>
+        </tr>
+    <tr>
+            <td><strong>Matthew Finlayson</strong></td>
+            <td>Allen Institute for AI</td>
+            <td>TBA</td>
+            <td>20 Feb</td>
         </tr>
         <!-- and so on... -->
     </tbody>
