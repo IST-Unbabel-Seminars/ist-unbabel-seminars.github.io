@@ -60,6 +60,12 @@ th, td {
         </tr>
     </thead>
     <tbody>
+        <tr class="past-row">
+            <td><strong>Misha Khalman</strong></td>
+            <td>Google Brain</td>
+            <td>Calibrating Sequence likelihood Improves Conditional Language Generation</td>
+            <td>23 Jan</td>
+        </tr>
 	    <tr class="past-row">
             <td><strong>Mateusz Krubinski</strong></td>
             <td>Charles University, Czech Republic</td>

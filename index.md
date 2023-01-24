@@ -89,12 +89,6 @@ th, td {
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td><strong>Misha Khalman</strong></td>
-            <td>Google Brain</td>
-            <td>Calibrating Sequence likelihood Improves Conditional Language Generation</td>
-            <td>23 Jan</td>
-        </tr>
 	<tr>
             <td><strong>Catarina Botelho</strong></td>
             <td>Instituto Superior Técnico & INESC-ID (HLT)</td>
@@ -118,6 +112,12 @@ th, td {
             <td>Allen Institute for AI</td>
             <td>TBA</td>
             <td>20 Feb</td>
+        </tr>
+    <tr>
+            <td><strong>Vilém Zouhar</strong></td>
+            <td>ETH Zurich</td>
+            <td>Poor Man's Quality Estimation: Predicting Reference-based MT Metrics Without the Reference</td>
+            <td>27 Feb</td>
         </tr>
         <!-- and so on... -->
     </tbody>
