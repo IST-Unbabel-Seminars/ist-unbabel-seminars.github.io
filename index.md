@@ -110,7 +110,7 @@ th, td {
 	<tr>
             <td><strong>Sweta Agrawal</strong></td>
             <td>University of Maryland</td>
-            <td>TBA </td>
+            <td>Generating and Evaluating Machine Translation in Context </td>
             <td>13 Feb</td>
         </tr>
         <!-- and so on... -->
