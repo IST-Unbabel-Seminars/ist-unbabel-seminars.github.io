@@ -92,7 +92,7 @@ th, td {
 	<tr>
             <td><strong>Catarina Botelho</strong></td>
             <td>Instituto Superior Técnico & INESC-ID (HLT)</td>
-            <td>TBA </td>
+            <td>Speech as Biomarker for Disease Screening </td>
             <td>30 Jan</td>
         </tr>
 	<tr>
@@ -110,7 +110,7 @@ th, td {
     <tr>
             <td><strong>Matthew Finlayson</strong></td>
             <td>Allen Institute for AI</td>
-            <td>TBA</td>
+            <td>Comprehensively evaluating LMs as general-purpose math reasoners</td>
             <td>20 Feb</td>
         </tr>
     <tr>
@@ -118,6 +118,12 @@ th, td {
             <td>ETH Zurich</td>
             <td>Poor Man's Quality Estimation: Predicting Reference-based MT Metrics Without the Reference</td>
             <td>27 Feb</td>
+        </tr>
+    <tr>
+            <td><strong>Biao Zhang</strong></td>
+            <td>University of Edinburgh</td>
+            <td>Prompting Large Language Model for Machine Translation: A Case Study</td>
+            <td>13 Mar</td>
         </tr>
         <!-- and so on... -->
     </tbody>
