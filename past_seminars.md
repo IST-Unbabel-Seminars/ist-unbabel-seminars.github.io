@@ -60,6 +60,12 @@ th, td {
         </tr>
     </thead>
     <tbody>
+	 <tr class="past-row">
+            <td><strong>Catarina Botelho</strong></td>
+            <td>Instituto Superior Técnico & INESC-ID (HLT)</td>
+            <td>Speech as Biomarker for Disease Screening </td>
+            <td>30 Jan</td>
+        </tr>
         <tr class="past-row">
             <td><strong>Misha Khalman</strong></td>
             <td>Google Brain</td>
