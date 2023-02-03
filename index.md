@@ -90,12 +90,6 @@ th, td {
     </thead>
     <tbody>
 	<tr>
-            <td><strong>Catarina Botelho</strong></td>
-            <td>Instituto Superior Técnico & INESC-ID (HLT)</td>
-            <td>Speech as Biomarker for Disease Screening </td>
-            <td>30 Jan</td>
-        </tr>
-	<tr>
             <td><strong>Nikita Moghe</strong></td>
             <td>University of Edinburgh</td>
             <td>Extrinsic Evaluation of Machine Translation Metrics </td>
@@ -119,11 +113,17 @@ th, td {
             <td>Poor Man's Quality Estimation: Predicting Reference-based MT Metrics Without the Reference</td>
             <td>27 Feb</td>
         </tr>
-    <tr>
+    	<tr>
             <td><strong>Biao Zhang</strong></td>
             <td>University of Edinburgh</td>
             <td>Prompting Large Language Model for Machine Translation: A Case Study</td>
             <td>13 Mar</td>
+        </tr>
+	<tr>
+            <td><strong>Wenda Xu</strong></td>
+            <td>University of California, Santa Barbara</td>
+            <td>SEScore2: Retrieval Augmented Pretraining for Text Generation</td>
+            <td>20 Mar</td>
         </tr>
         <!-- and so on... -->
     </tbody>
