@@ -61,6 +61,12 @@ th, td {
     </thead>
     <tbody>
 	 <tr class="past-row">
+            <td><strong>Nikita Moghe</strong></td>
+            <td>University of Edinburgh</td>
+            <td>Extrinsic Evaluation of Machine Translation Metrics </td>
+            <td>6 Feb</td>
+        </tr>
+	 <tr class="past-row">
             <td><strong>Catarina Botelho</strong></td>
             <td>Instituto Superior Técnico & INESC-ID (HLT)</td>
             <td>Speech as Biomarker for Disease Screening </td>
