@@ -108,6 +108,12 @@ th, td {
             <td>27 Feb</td>
         </tr>
     	<tr>
+            <td><strong>Weijia Xu</strong></td>
+            <td>University of Maryland</td>
+            <td>Understanding and Detecting Hallucinations in Neural Machine Translation via Model Introspection</td>
+            <td>6 Mar</td>
+        </tr>
+    	<tr>
             <td><strong>Biao Zhang</strong></td>
             <td>University of Edinburgh</td>
             <td>Prompting Large Language Model for Machine Translation: A Case Study</td>
@@ -118,6 +124,12 @@ th, td {
             <td>University of California, Santa Barbara</td>
             <td>SEScore2: Retrieval Augmented Pretraining for Text Generation</td>
             <td>20 Mar</td>
+        </tr>
+	<tr>
+            <td><strong>Alexis Ross</strong></td>
+            <td>Massachusetts Institute of Technology -- MIT CSAIL</td>
+            <td>TBA</td>
+            <td>24 April</td>
         </tr>
         <!-- and so on... -->
     </tbody>
