@@ -90,12 +90,6 @@ th, td {
     </thead>
     <tbody>
 	<tr>
-            <td><strong>Nikita Moghe</strong></td>
-            <td>University of Edinburgh</td>
-            <td>Extrinsic Evaluation of Machine Translation Metrics </td>
-            <td>6 Feb</td>
-        </tr>
-	<tr>
             <td><strong>Sweta Agrawal</strong></td>
             <td>University of Maryland</td>
             <td>Generating and Evaluating Machine Translation in Context </td>
