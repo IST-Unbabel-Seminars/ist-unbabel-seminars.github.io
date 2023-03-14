@@ -119,12 +119,6 @@ th, td {
             <td>Compression and Distillation of Massive Multilingual NMT Models</td>
             <td>8 May</td>
         </tr>
-    <tr>
-            <td><strong>Alireza Mohammadshahi</strong></td>
-            <td>EPFL</td>
-            <td>Compression and Distillation of Massive Multilingual NMT Models</td>
-            <td>8 May</td>
-        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
