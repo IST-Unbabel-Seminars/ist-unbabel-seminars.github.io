@@ -60,6 +60,36 @@ th, td {
         </tr>
     </thead>
     <tbody>
+    <tr class="past-row">
+            <<td><strong>Biao Zhang</strong></td>
+            <td>University of Edinburgh</td>
+            <td>Prompting Large Language Model for Machine Translation: A Case Study</td>
+            <td>13 Mar</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>Weijia Xu</strong></td>
+            <td>University of Maryland</td>
+            <td>Understanding and Detecting Hallucinations in Neural Machine Translation via Model Introspection</td>
+            <td>6 Mar</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>Vilém Zouhar</strong></td>
+            <td>ETH Zurich</td>
+            <td>Poor Man's Quality Estimation: Predicting Reference-based MT Metrics Without the Reference</td>
+            <td>27 Feb</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>Matthew Finlayson</strong></td>
+            <td>Allen Institute for AI</td>
+            <td>Comprehensively evaluating LMs as general-purpose math reasoners</td>
+            <td>20 Feb</td>
+        </tr>
+    <tr class="past-row">
+        <td><strong>Sweta Agrawal</strong></td>
+            <td>University of Maryland</td>
+            <td>Generating and Evaluating Machine Translation in Context </td>
+            <td>13 Feb</td>
+        </tr>
 	 <tr class="past-row">
             <td><strong>Nikita Moghe</strong></td>
             <td>University of Edinburgh</td>

@@ -90,36 +90,6 @@ th, td {
     </thead>
     <tbody>
 	<tr>
-            <td><strong>Sweta Agrawal</strong></td>
-            <td>University of Maryland</td>
-            <td>Generating and Evaluating Machine Translation in Context </td>
-            <td>13 Feb</td>
-        </tr>
-    <tr>
-            <td><strong>Matthew Finlayson</strong></td>
-            <td>Allen Institute for AI</td>
-            <td>Comprehensively evaluating LMs as general-purpose math reasoners</td>
-            <td>20 Feb</td>
-        </tr>
-    <tr>
-            <td><strong>Vilém Zouhar</strong></td>
-            <td>ETH Zurich</td>
-            <td>Poor Man's Quality Estimation: Predicting Reference-based MT Metrics Without the Reference</td>
-            <td>27 Feb</td>
-        </tr>
-    	<tr>
-            <td><strong>Weijia Xu</strong></td>
-            <td>University of Maryland</td>
-            <td>Understanding and Detecting Hallucinations in Neural Machine Translation via Model Introspection</td>
-            <td>6 Mar</td>
-        </tr>
-    	<tr>
-            <td><strong>Biao Zhang</strong></td>
-            <td>University of Edinburgh</td>
-            <td>Prompting Large Language Model for Machine Translation: A Case Study</td>
-            <td>13 Mar</td>
-        </tr>
-	<tr>
             <td><strong>Wenda Xu</strong></td>
             <td>University of California, Santa Barbara</td>
             <td>SEScore2: Retrieval Augmented Pretraining for Text Generation</td>
@@ -129,7 +99,31 @@ th, td {
             <td><strong>Alexis Ross</strong></td>
             <td>Massachusetts Institute of Technology -- MIT CSAIL</td>
             <td>TBA</td>
-            <td>24 April</td>
+            <td>03 April</td>
+        </tr>
+    <tr>
+            <td><strong>Lorenz Kuhn</strong></td>
+            <td>University of Oxford</td>
+            <td>Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation</td>
+            <td>10 April</td>
+        </tr>
+    <tr>
+            <td><strong>Tom Kocmi and Christian Federmann</strong></td>
+            <td>Microsoft Research</td>
+            <td>Large Language Models Are State-of-the-Art Evaluators of Translation Quality</td>
+            <td>17 April</td>
+        </tr>
+    <tr>
+            <td><strong>Alireza Mohammadshahi</strong></td>
+            <td>EPFL</td>
+            <td>Compression and Distillation of Massive Multilingual NMT Models</td>
+            <td>8 May</td>
+        </tr>
+    <tr>
+            <td><strong>Alireza Mohammadshahi</strong></td>
+            <td>EPFL</td>
+            <td>Compression and Distillation of Massive Multilingual NMT Models</td>
+            <td>8 May</td>
         </tr>
         <!-- and so on... -->
     </tbody>
