@@ -61,6 +61,41 @@ th, td {
     </thead>
     <tbody>
     <tr class="past-row">
+            <td><strong>Alireza Mohammadshahi</strong></td>
+            <td>EPFL</td>
+            <td>Compression and Distillation of Massive Multilingual NMT Models</td>
+            <td>8 May</td>
+        </tr>
+    <tr>
+    <tr class="past-row">
+            <td><strong>Tom Kocmi and Christian Federmann</strong></td>
+            <td>Microsoft Research</td>
+            <td>Large Language Models Are State-of-the-Art Evaluators of Translation Quality</td>
+            <td>17 April</td>
+        </tr>
+    <tr>
+    <tr class="past-row">
+            <td><strong>Lorenz Kuhn</strong></td>
+            <td>University of Oxford</td>
+            <td>Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation</td>
+            <td>10 April</td>
+        </tr>
+    <tr>
+    <tr class="past-row">
+            <td><strong>Alexis Ross</strong></td>
+            <td>Massachusetts Institute of Technology -- MIT CSAIL</td>
+            <td>TBA</td>
+            <td>03 April</td>
+        </tr>
+    <tr>
+    <tr class="past-row">
+            <td><strong>Wenda Xu</strong></td>
+            <td>University of California, Santa Barbara</td>
+            <td>SEScore2: Retrieval Augmented Pretraining for Text Generation</td>
+            <td>20 Mar</td>
+        </tr>
+    <tr>
+    <tr class="past-row">
             <<td><strong>Biao Zhang</strong></td>
             <td>University of Edinburgh</td>
             <td>Prompting Large Language Model for Machine Translation: A Case Study</td>

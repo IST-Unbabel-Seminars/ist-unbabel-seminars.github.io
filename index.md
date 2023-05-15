@@ -90,34 +90,10 @@ th, td {
     </thead>
     <tbody>
 	<tr>
-            <td><strong>Wenda Xu</strong></td>
-            <td>University of California, Santa Barbara</td>
-            <td>SEScore2: Retrieval Augmented Pretraining for Text Generation</td>
-            <td>20 Mar</td>
-        </tr>
-	<tr>
-            <td><strong>Alexis Ross</strong></td>
-            <td>Massachusetts Institute of Technology -- MIT CSAIL</td>
-            <td>TBA</td>
-            <td>03 April</td>
-        </tr>
-    <tr>
-            <td><strong>Lorenz Kuhn</strong></td>
-            <td>University of Oxford</td>
-            <td>Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation</td>
-            <td>10 April</td>
-        </tr>
-    <tr>
-            <td><strong>Tom Kocmi and Christian Federmann</strong></td>
-            <td>Microsoft Research</td>
-            <td>Large Language Models Are State-of-the-Art Evaluators of Translation Quality</td>
-            <td>17 April</td>
-        </tr>
-    <tr>
-            <td><strong>Alireza Mohammadshahi</strong></td>
-            <td>EPFL</td>
-            <td>Compression and Distillation of Massive Multilingual NMT Models</td>
-            <td>8 May</td>
+            <td><strong>Marzena Karpinska</strong></td>
+            <td>University of Massachusetts Amherst</td>
+            <td>Large language models effectively leverage document-level context for literary translation, but critical errors persist</td>
+            <td>15 May</td>
         </tr>
         <!-- and so on... -->
     </tbody>
