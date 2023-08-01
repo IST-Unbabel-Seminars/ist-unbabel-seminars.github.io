@@ -90,10 +90,28 @@ th, td {
     </thead>
     <tbody>
 	<tr>
-            <td><strong>Marzena Karpinska</strong></td>
-            <td>University of Massachusetts Amherst</td>
-            <td>Large language models effectively leverage document-level context for literary translation, but critical errors persist</td>
-            <td>15 May</td>
+            <td><strong>Niklas Muennighoff</strong></td>
+            <td>HuggingFace</td>
+            <td>Scaling Data-Constrained Language Models</td>
+            <td>31 Jul</td>
+        </tr>
+  <tr>
+            <td><strong>Shayne Longpre</strong></td>
+            <td>MIT Media Lab</td>
+            <td>The Flan Collection: Designing Data and Methods for Effective Instruction Tuning</td>
+            <td>07 Aug</td>
+        </tr>
+  <tr>
+            <td><strong>Yihong Chen</strong></td>
+            <td>UCL-NLP Group</td>
+            <td>Improving Language Plasticity via Pretraining with Active Forgetting</td>
+            <td>11 Sep</td>
+        </tr>
+  <tr>
+            <td><strong>Jason Wei</strong></td>
+            <td>OpenAI</td>
+            <td>Scaling, emergence, and reasoning in large language models</td>
+            <td>18 Sep</td>
         </tr>
         <!-- and so on... -->
     </tbody>

@@ -61,6 +61,24 @@ th, td {
     </thead>
     <tbody>
     <tr class="past-row">
+            <td><strong>Javier Ferrando</strong></td>
+            <td>Universitat Politècnica de Catalunya</td>
+            <td>Explaining How Transformers Use Context to Build Predictions</td>
+            <td>26 June</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>Roberto Dessì</strong></td>
+            <td>FAIR Paris and UPF</td>
+            <td>Cross-Domain Image Captioning with Discriminative Finetuning</td>
+            <td>5 June</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>Marzena Karpinska</strong></td>
+            <td>University of Massachusetts Amherst</td>
+            <td>Large language models effectively leverage document-level context for literary translation, but critical errors persist</td>
+            <td>15 May</td>
+        </tr>
+    <tr class="past-row">
             <td><strong>Alireza Mohammadshahi</strong></td>
             <td>EPFL</td>
             <td>Compression and Distillation of Massive Multilingual NMT Models</td>
@@ -148,6 +166,12 @@ th, td {
             <td>Charles University, Czech Republic</td>
             <td>Can Summary Evaluation Benefit from Translation Evaluation?</td>
             <td>16 Jan</td>
+        </tr>
+        <tr class="past-row">
+            <td><strong>Javier Ferrando</strong></td>
+            <td>Universitat Politècnica de Catalunya</td>
+            <td>Towards opening the black box of neural machine translation: Source and target interpretations of the transformer</td>
+            <td>9 Jan</td>
         </tr>
 	    <tr class="past-row">
             <td><strong>Pasquale Minervini</strong></td>
