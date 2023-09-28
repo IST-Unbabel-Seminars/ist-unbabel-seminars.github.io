@@ -113,6 +113,18 @@ th, td {
             <td>Scaling, emergence, and reasoning in large language models</td>
             <td>18 Sep</td>
         </tr>
+        <tr>
+            <td><strong>Elena Voita</strong></td>
+            <td>Meta AI</td>
+            <td>Neurons in Large Language Models</td>
+            <td>23 Oct</td>
+        </tr>
+        <tr>
+            <td><strong>João Sacramento</strong></td>
+            <td>OpenAI</td>
+            <td>Uncovering mesa-optimization algorithms in Transformers</td>
+            <td>30 Oct</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
