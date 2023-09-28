@@ -26,11 +26,8 @@ Please contact <a href = "mailto: miguelguerreironuno@gmail.com">Nuno Miguel Gue
   <strong>We are back with new talks! Please check the schedule for following seminars!</strong><br />
 </p>
 
-<br />
-<br />
 
 ## Seminars in 2023<br />
-
 ### Upcoming Seminars
 
 <head>
@@ -66,8 +63,6 @@ tbody tr.past-row {
     font-size: 0.85em;
     background-color: #f3f3f3;
 }
-
-
 
 
 th, td {
@@ -112,6 +107,12 @@ th, td {
             <td>OpenAI</td>
             <td>Scaling, emergence, and reasoning in large language models</td>
             <td>18 Sep</td>
+        </tr>
+        <tr>
+            <td><strong>Tri Dao</strong></td>
+            <td>Stanford and Together.AI</td>
+            <td>TBA</td>
+            <td>9 Oct</td>
         </tr>
         <tr>
             <td><strong>Elena Voita</strong></td>
