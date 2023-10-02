@@ -122,7 +122,7 @@ th, td {
         </tr>
         <tr>
             <td><strong>João Sacramento</strong></td>
-            <td>OpenAI</td>
+            <td>ETH Zurich</td>
             <td>Uncovering mesa-optimization algorithms in Transformers</td>
             <td>30 Oct</td>
         </tr>
