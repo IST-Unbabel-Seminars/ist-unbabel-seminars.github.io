@@ -126,6 +126,18 @@ th, td {
             <td>Uncovering mesa-optimization algorithms in Transformers</td>
             <td>30 Oct</td>
         </tr>
+        <tr>
+            <td><strong>Mara Finkelstein and Markus Freitag</strong></td>
+            <td>Google Research</td>
+            <td>MBR and QE Finetuning: Training-time Distillation of the Best and Most Expensive Decoding Methods</td>
+            <td>6 Nov</td>
+        </tr>
+        <tr>
+            <td><strong>Prasann Singhal</strong></td>
+            <td>UT Austin</td>
+            <td>A Long Way to Go: Investigating Length Correlations in RLHF</td>
+            <td>13 Nov</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
