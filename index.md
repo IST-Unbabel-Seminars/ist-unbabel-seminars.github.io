@@ -6,9 +6,9 @@ layout: home
 ---
 
 <p class="message">
-  The IST & Unbabel Seminars aim to provide, on a weekly basis, an outlet for discussion of research on Machine Learning and Natural Language Processing by researchers and students all over the world.<br /><br />
+  The ELLIS & Unbabel Seminars aim to provide, on a weekly basis, an outlet for discussion of research on Machine Learning and Natural Language Processing by researchers and students all over the world.<br /><br />
 
-  These seminars are organized by people at Instituto Superior Técnico (IST) and <a href="https://unbabel.com/">Unbabel</a>, and are also an initiative from <a href="https://lumlis.tecnico.ulisboa.pt/">LUMLIS</a> (Lisbon Unit for Learning and Intelligent Systems) a unit of the  European Laboratory for Learning and Intelligent Systems (<a href="https://ellis.eu/">ELLIS</a>).<br /><br />   
+  These seminars are organized by people at the Lisbon ELLIS Unit (<a href="https://lumlis.tecnico.ulisboa.pt/">LUMLIS</a>) and <a href="https://unbabel.com/">Unbabel</a>.<br /><br />   
   
   <strong>The seminars are open to the public.</strong><br />
 
@@ -17,7 +17,7 @@ layout: home
 </p>
 
 <link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
-Please contact <a href = "mailto: miguelguerreironuno@gmail.com">Nuno Miguel Guerreiro</a> or <a href = "mailto: ricardo.rei@unbabel.com">Ricardo Rei</a> for any questions regarding the seminars!
+Please contact <a href = "mailto: nuno.guerreiro@unbabel.com">Nuno M. Guerreiro</a> or <a href = "mailto: ricardo.rei@unbabel.com">Ricardo Rei</a> for any questions regarding the seminars!
 <br />
 <br />
 

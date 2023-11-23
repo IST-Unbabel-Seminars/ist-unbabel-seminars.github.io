@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        /:title
 
 # Setup
-title:            IST & Unbabel Seminars
+title:            ELLIS & Unbabel Seminars
 tagline:          'A Jekyll theme'
 description:      ''
 url:              "ist-unbabel-seminars.github.io"
