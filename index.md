@@ -85,58 +85,28 @@ th, td {
     </thead>
     <tbody>
 	<tr>
-            <td><strong>Niklas Muennighoff</strong></td>
-            <td>HuggingFace</td>
-            <td>Scaling Data-Constrained Language Models</td>
-            <td>31 Jul</td>
+            <td><strong>Vilém Zouhar</strong></td>
+            <td>ETH Zürich</td>
+            <td>Quality and Quantity of Machine Translation References for Automated Metrics</td>
+            <td>22 Jan</td>
         </tr>
   <tr>
-            <td><strong>Shayne Longpre</strong></td>
-            <td>MIT Media Lab</td>
-            <td>The Flan Collection: Designing Data and Methods for Effective Instruction Tuning</td>
-            <td>07 Aug</td>
+            <td><strong>Haoran Xu</strong></td>
+            <td>Johns Hopkins University</td>
+            <td> Pushing the Boundaries of LLM Performance in Machine Translation</td>
+            <td>29 Jan</td>
         </tr>
   <tr>
-            <td><strong>Yihong Chen</strong></td>
-            <td>UCL-NLP Group</td>
-            <td>Improving Language Plasticity via Pretraining with Active Forgetting</td>
-            <td>11 Sep</td>
+            <td><strong>Tom Kocmi and Vilém Zouhar</strong></td>
+            <td>Microsoft and ETH Zürich</td>
+            <td>Navigating the Metrics Maze: Reconciling Score Magnitudes and Accuracies</td>
+            <td>5 Feb</td>
         </tr>
   <tr>
-            <td><strong>Jason Wei</strong></td>
-            <td>OpenAI</td>
-            <td>Scaling, emergence, and reasoning in large language models</td>
-            <td>18 Sep</td>
-        </tr>
-        <tr>
-            <td><strong>Tri Dao</strong></td>
-            <td>Stanford and Together.AI</td>
-            <td>TBA</td>
-            <td>9 Oct</td>
-        </tr>
-        <tr>
-            <td><strong>Elena Voita</strong></td>
-            <td>Meta AI</td>
-            <td>Neurons in Large Language Models</td>
-            <td>23 Oct</td>
-        </tr>
-        <tr>
-            <td><strong>João Sacramento</strong></td>
-            <td>ETH Zurich</td>
-            <td>Uncovering mesa-optimization algorithms in Transformers</td>
-            <td>30 Oct</td>
-        </tr>
-        <tr>
-            <td><strong>Mara Finkelstein and Markus Freitag</strong></td>
-            <td>Google Research</td>
-            <td>MBR and QE Finetuning: Training-time Distillation of the Best and Most Expensive Decoding Methods</td>
-            <td>6 Nov</td>
-        </tr>
-        <tr>
-            <td><strong>Prasann Singhal</strong></td>
-            <td>UT Austin</td>
-            <td>A Long Way to Go: Investigating Length Correlations in RLHF</td>
-            <td>13 Nov</td>
+            <td><strong>Giorgos Vernikos</strong></td>
+            <td>EPFL</td>
+            <td>Don’t Rank, Combine! Combining Machine Translation Hypotheses Using Quality Estimation</td>
+            <td>12 Feb</td>
         </tr>
         <!-- and so on... -->
     </tbody>

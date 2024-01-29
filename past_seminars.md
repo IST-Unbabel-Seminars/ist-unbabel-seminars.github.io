@@ -61,6 +61,66 @@ th, td {
     </thead>
     <tbody>
     <tr class="past-row">
+            <td><strong>Haikang Deng</strong></td>
+            <td>UT Austin</td>
+            <td>Reward-Augmented Decoding: Efficient Controlled Text Generation With a Unidirectional Reward Model</td>
+            <td>18 Dec</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>Prasann Singhal</strong></td>
+            <td>UT Austin</td>
+            <td>A Long Way to Go: Investigating Length Correlations in RLHF</td>
+            <td>13 Nov</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>Mara Finkelstein and Markus Freitag</strong></td>
+            <td>Google Research</td>
+            <td>MBR and QE Finetuning: Training-time Distillation of the Best and Most Expensive Decoding Methods</td>
+            <td>6 Nov</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>João Sacramento</strong></td>
+            <td>ETH Zurich</td>
+            <td>Uncovering mesa-optimization algorithms in Transformers</td>
+            <td>30 Oct</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>Elena Voita</strong></td>
+            <td>Meta AI</td>
+            <td>Neurons in Large Language Models</td>
+            <td>23 Oct</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>Tri Dao</strong></td>
+            <td>Stanford and Together.AI</td>
+            <td>FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness</td>
+            <td>9 Oct</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>Jason Wei</strong></td>
+            <td>OpenAI</td>
+            <td>Scaling, emergence, and reasoning in large language models</td>
+            <td>18 Sep</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>Yihong Chen</strong></td>
+            <td>UCL-NLP Group</td>
+            <td>Improving Language Plasticity via Pretraining with Active Forgetting</td>
+            <td>11 Sep</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>Shayne Longpre</strong></td>
+            <td>MIT Media Lab</td>
+            <td>The Flan Collection: Designing Data and Methods for Effective Instruction Tuning</td>
+            <td>07 Aug</td>
+        </tr>
+    <tr class="past-row">
+            <td><strong>Niklas Muennighoff</strong></td>
+            <td>HuggingFace</td>
+            <td>Scaling Data-Constrained Language Models</td>
+            <td>31 Jul</td>
+        </tr>
+    <tr class="past-row">
             <td><strong>Javier Ferrando</strong></td>
             <td>Universitat Politècnica de Catalunya</td>
             <td>Explaining How Transformers Use Context to Build Predictions</td>
